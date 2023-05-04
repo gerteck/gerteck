@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on orbital~
+- 💬 Ask me about anything!
+- 📫 How to reach me: Drop me an email!
 
 <!--
 **gerteck/gerteck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
