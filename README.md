@@ -1,7 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on orbital~
-- 💬 Ask me about anything!
-- 📫 How to reach me: Drop me an email!
+- 🔭 I’m currently working on Orbital & University coursework~
+- ⭐ Ask me about anything! Past Modules, Projects, Scuba diving! 🤿
+
+📫 How to reach me: Drop me an email! changerteck@gmail.com
 
 <!--
 **gerteck/gerteck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
