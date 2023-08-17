@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Orbital & University coursework~
+- 🔭 I’m currently working on University coursework & side projects~
+- 🌱 I’m currently learning C amongst others...
 - ⭐ Ask me about anything! Past Modules, Projects, Scuba diving! 🤿
 
 📫 How to reach me: Drop me an email! @ changerteck@gmail.com or @ changerteck@u.nus.edu
