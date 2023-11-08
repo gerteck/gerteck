@@ -5,6 +5,8 @@
 
 📫 How to reach me: Drop me an email! @ changerteck@gmail.com or @ changerteck@u.nus.edu
 
+![](https://komarev.com/ghpvc/?username=gerteck&color=green)
+
 <!--
 **gerteck/gerteck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
