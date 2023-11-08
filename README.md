@@ -5,7 +5,17 @@
 
 📫 How to reach me: Drop me an email! @ changerteck@gmail.com or @ changerteck@u.nus.edu
 
-![](https://komarev.com/ghpvc/?username=gerteck&color=green)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=gerteck&color=green) -->
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gerteck&show_icons=true&theme=dark) -->
+
+<!--
+<p align="center">
+  <img src="https://img.shields.io/badge/Languages-Java%20%7C%20JavaScript%20%7C%20Python%20%7C%20C%20%7C%20C++-blue" alt="Languages">
+  <img src="https://img.shields.io/badge/Frameworks-React%20%7C%20PostgreSQL%20%7C%20HTML%20%7C%20CSS-blueviolet" alt="Frameworks">
+</p>
+-->
+
+<p align="center">Thanks for stopping by!</p>
 
 <!--
 **gerteck/gerteck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
