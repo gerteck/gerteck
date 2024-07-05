@@ -1,6 +1,6 @@
-### Hi there 👋
-- 🔭 I’m currently working on University coursework & side projects~
-- 🌱 I’m currently learning C amongst others...
+### Hello there 👋
+- 🔭 I’m currently working on University coursework, Open Source Software & side projects~
+- 🌱 I’m currently learning C, game dev, app dev amongst others...
 - ⭐ Ask me about anything! Past Modules, Projects, Scuba diving! 🤿
 
 📫 How to reach me: Drop me an email! @ changerteck@gmail.com or @ changerteck@u.nus.edu
