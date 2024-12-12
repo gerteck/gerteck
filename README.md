@@ -5,6 +5,8 @@
 
 📫 How to reach me: Drop me an email! @ changerteck@gmail.com or @ changerteck@u.nus.edu
 
+Android Apps: https://play.google.com/store/apps/developer?id=Ger+Teck&hl=en
+
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=gerteck&color=green) -->
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gerteck&show_icons=true&theme=dark) -->
 
