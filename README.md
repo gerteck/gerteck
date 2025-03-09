@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning C, game dev, app dev amongst others...
 - ⭐ Ask me about anything! Past Modules, Projects, Scuba diving! 🤿
 
-📫 How to reach me: Drop me an email! @ changerteck@gmail.com or @ changerteck@u.nus.edu
+📫 How to reach me: Drop me an email! @ changerteck@gmail.com or @ changerteck@u.nus.edu or @ gerteck.chan@mail.utoronto.ca
 
 Android Apps: https://play.google.com/store/apps/developer?id=Ger+Teck&hl=en
+Website: https://gerteck.github.io/
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=gerteck&color=green) -->
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gerteck&show_icons=true&theme=dark) -->
