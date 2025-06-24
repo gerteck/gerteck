@@ -7,7 +7,7 @@
 
 Android Apps: https://play.google.com/store/apps/developer?id=Ger+Teck&hl=en
 
-Website: https://gerteck.github.io/
+Website: https://changerteck.com/
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=gerteck&color=green) -->
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gerteck&show_icons=true&theme=dark) -->
